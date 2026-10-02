@@ -8,7 +8,7 @@ Aprender POO na prática, um pilar por vez, com commits que
 registram a evolução do projeto.
 
 ## 🗺️ Progresso
-- [ ] Aula 1: Abstração, Classes e Objetos
+- [x] Aula 1: Abstração, Classes e Objetos
 - [ ] Aula 2: Atributos, Métodos e Construtores
 - [ ] Aula 3: Encapsulamento
 - [ ] Aula 4: Enums e Composição
