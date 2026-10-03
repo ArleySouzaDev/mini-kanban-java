@@ -5,10 +5,10 @@ public class Tarefa {
     private int prioridade;
 
     Tarefa(String titulo, String descricao, String status, int prioridade) {
-        this.titulo = titulo;
+        setTitulo(titulo);
         this.descricao = descricao;
         this.status = status;
-        this.prioridade = prioridade;
+        setPrioridade(prioridade);;
     }
 
     Tarefa(String titulo) {

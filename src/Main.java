@@ -15,7 +15,7 @@ public class Main {
                 "A FAZER",
                 1);
         Tarefa tarefaNova = new Tarefa("Revisar documentação");
-
+        
         System.out.println("---Antes de Concluir---");
         exibirTodas(tarefaLogin, tarefaPerfil, tarefaTestes, tarefaNova);
 
