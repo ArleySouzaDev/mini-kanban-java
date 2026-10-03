@@ -9,8 +9,8 @@ registram a evolução do projeto.
 
 ## 🗺️ Progresso
 - [x] Aula 1: Abstração, Classes e Objetos
-- [ ] Aula 2: Atributos, Métodos e Construtores
-- [ ] Aula 3: Encapsulamento
+- [x] Aula 2: Atributos, Métodos e Construtores
+- [x] Aula 3: Encapsulamento
 - [ ] Aula 4: Enums e Composição
 - [ ] Aula 5: Herança
 - [ ] Aula 6: Polimorfismo
