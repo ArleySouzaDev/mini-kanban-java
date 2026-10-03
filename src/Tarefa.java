@@ -39,5 +39,20 @@ public class Tarefa {
     public int getPrioridade() {
         return prioridade;
     }
+
+    public void setPrioridade(int prioridade) {
+        if (prioridade < 1 || prioridade > 5) {
+            System.out.println("Prioridade inválida: use de 1 a 5.");
+            return;
+        }
+        this.prioridade = prioridade;
+    }
+    public void setTitulo(String titulo){
+        if (titulo == null || titulo.isBlank()){
+            System.out.println("Título inválido: não pode ser vazio.");
+            return;
+        }
+        this.titulo = titulo;
+    }
 }
 
