@@ -11,7 +11,7 @@ registram a evolução do projeto.
 - [x] Aula 1: Abstração, Classes e Objetos
 - [x] Aula 2: Atributos, Métodos e Construtores
 - [x] Aula 3: Encapsulamento
-- [x] Aula 4: Enums e Composição
+- [] Aula 4: Enums e Composição
 - [ ] Aula 5: Herança
 - [ ] Aula 6: Polimorfismo
 - [ ] Aula 7: Classes Abstratas
